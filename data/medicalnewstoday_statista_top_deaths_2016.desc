@@ -1,0 +1,13 @@
+Intended use for this data: Validate CDC analysis
+
+mnt_deaths column:
+From: https://www.medicalnewstoday.com/articles/316264.php?sr
+Description: Top 10 leading causes of death
+
+statista_deaths column:
+From: https://www.statista.com/statistics/248619/leading-causes-of-death-in-the-us/
+Description: Top 10 leading causes of death
+
+Transformation to absolute death numbers:
+pop_2016      = 318810586
+n_deaths_2016 = 2744248
